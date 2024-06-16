@@ -1,0 +1,11 @@
+
+M+: [8]
+M+: [8, 88]
+48.0 es el promedio de [8, 88]
+48.0 + 5 = 53
+2 + 2 = 4
+100 es el resultado en binario de 4 
+100 no es un núm primo=False
+M+: [9]
+98 / 2 = 49
+9.0 es el promedio de [9]
